@@ -1,6 +1,6 @@
 \beamer@sectionintoc {1}{API}{3}{0}{1}
-\beamer@sectionintoc {2}{UI}{4}{0}{2}
-\beamer@sectionintoc {3}{Deployment}{5}{0}{3}
-\beamer@sectionintoc {4}{Documentation}{6}{0}{4}
-\beamer@sectionintoc {5}{Performance}{7}{0}{5}
-\beamer@sectionintoc {6}{Planning}{8}{0}{6}
+\beamer@sectionintoc {2}{UI}{7}{0}{2}
+\beamer@sectionintoc {3}{Deployment}{8}{0}{3}
+\beamer@sectionintoc {4}{Documentation}{9}{0}{4}
+\beamer@sectionintoc {5}{Performance}{10}{0}{5}
+\beamer@sectionintoc {6}{Planning}{11}{0}{6}
