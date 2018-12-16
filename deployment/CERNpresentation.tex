@@ -1,0 +1,85 @@
+\documentclass[12pt]{beamer}
+\usetheme{Berkeley}
+\usepackage{graphicx}
+\usepackage{booktabs}
+
+\title{Jiskefet}
+
+\author{Amin Chihab, Bastiaan Reinalda, Calvin Huynh, Misha Rigot, Ramon Gill}
+
+\date{\today}
+
+\begin{document}
+	\begin{frame}
+	\titlepage
+	\end{frame}
+
+	\begin{frame}{Overview}
+		\tableofcontents
+	\end{frame}
+
+    % Deployment
+	\section{Deployment}
+	\begin{frame}
+        \frametitle{Deployment}
+		\begin{itemize}
+			\item Ansible
+			\begin{itemize}
+                \item API
+                \item UI
+                \item Database
+                \item Jenkins CI
+            \end{itemize} 
+			\item Jenkins CI
+            \begin{itemize}
+                \item Linting
+                \item Testing
+                \item Codecov
+            \end{itemize}
+		\end{itemize}
+    \end{frame}
+
+    \begin{frame}
+        \frametitle{Deployment}
+        Directory Structure Overview
+        \newline
+   		\includegraphics[scale=.38]{assets/deploy_dirstruct.png}
+    \end{frame}
+
+    \begin{frame}
+        \frametitle{Deployment}
+        Common tasks
+        \newline
+        path: \texttt{site.yml}
+        \newline
+   		\includegraphics[scale=.40]{assets/deploy_create_user.png}
+    \end{frame}
+    
+    \begin{frame}
+        \frametitle{Deployment}
+        Web server
+        \newline
+        path: \texttt{site.yml}
+        \newline
+   		\includegraphics[scale=.30]{assets/deploy_webserver.png}
+    \end{frame}
+        
+    \begin{frame}
+        \frametitle{Deployment}
+        Database server
+        \newline
+        path: \texttt{site.yml}
+        \newline
+   		\includegraphics[scale=.30]{assets/deploy_databaseserver.png}
+    \end{frame}
+
+	% Planning
+	\section{Planning}
+	\begin{frame}
+		\frametitle{Planning}
+		\begin{itemize}
+            \item config/environment variables validation
+            \item reduce the manual steps required to deploy the CI server
+		\end{itemize}
+    \end{frame}
+\end{document}
