@@ -3,3 +3,4 @@
 \beamer@sectionintoc {3}{Deployment}{5}{0}{3}
 \beamer@sectionintoc {4}{Documentation}{6}{0}{4}
 \beamer@sectionintoc {5}{Performance}{7}{0}{5}
+\beamer@sectionintoc {6}{Planning}{8}{0}{6}
