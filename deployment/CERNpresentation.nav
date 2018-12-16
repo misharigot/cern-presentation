@@ -17,11 +17,20 @@
 \headcommand {\beamer@framepages {7}{7}}
 \headcommand {\beamer@sectionpages {3}{7}}
 \headcommand {\beamer@subsectionpages {3}{7}}
-\headcommand {\sectionentry {2}{Planning}{8}{Planning}{0}}
+\headcommand {\sectionentry {2}{Jenkins CI}{8}{Jenkins CI}{0}}
 \headcommand {\slideentry {2}{0}{1}{8/8}{}{0}}
 \headcommand {\beamer@framepages {8}{8}}
-\headcommand {\beamer@partpages {1}{8}}
-\headcommand {\beamer@subsectionpages {8}{8}}
-\headcommand {\beamer@sectionpages {8}{8}}
-\headcommand {\beamer@documentpages {8}}
-\headcommand {\gdef \inserttotalframenumber {8}}
+\headcommand {\slideentry {2}{0}{2}{9/9}{}{0}}
+\headcommand {\beamer@framepages {9}{9}}
+\headcommand {\slideentry {2}{0}{3}{10/10}{}{0}}
+\headcommand {\beamer@framepages {10}{10}}
+\headcommand {\beamer@sectionpages {8}{10}}
+\headcommand {\beamer@subsectionpages {8}{10}}
+\headcommand {\sectionentry {3}{Planning}{11}{Planning}{0}}
+\headcommand {\slideentry {3}{0}{1}{11/11}{}{0}}
+\headcommand {\beamer@framepages {11}{11}}
+\headcommand {\beamer@partpages {1}{11}}
+\headcommand {\beamer@subsectionpages {11}{11}}
+\headcommand {\beamer@sectionpages {11}{11}}
+\headcommand {\beamer@documentpages {11}}
+\headcommand {\gdef \inserttotalframenumber {11}}

@@ -3,9 +3,9 @@
 \usepackage{graphicx}
 \usepackage{booktabs}
 
-\title{Jiskefet}
+\title{Jiskefet - Deployment}
 
-\author{Amin Chihab, Bastiaan Reinalda, Calvin Huynh, Misha Rigot, Ramon Gill}
+\author{Calvin Huynh, Misha Rigot}
 
 \date{\today}
 
@@ -70,7 +70,39 @@
         \newline
         path: \texttt{site.yml}
         \newline
-   		\includegraphics[scale=.30]{assets/deploy_databaseserver.png}
+   		\includegraphics[scale=.50]{assets/deploy_databaseserver.png}
+    \end{frame}
+
+    % Jenkins CI
+    \section{Jenkins CI}
+    
+	\begin{frame}
+		\frametitle{Jenkins CI}
+		\begin{itemize}
+            \item Linting
+            \item Testing
+            \begin{itemize}
+                \item End to end tests
+                \item Integration tests
+            \end{itemize}
+            \item Codecov
+		\end{itemize}
+    \end{frame}
+
+    \begin{frame}
+        \frametitle{Jenkins CI}
+        Directory Structure Overview
+        \newline
+   		\includegraphics[scale=.38]{assets/deploy_dirstruct_ci.png}
+    \end{frame}
+
+    \begin{frame}
+        \frametitle{Jenkins CI}
+        Playbook
+        \newline
+        path: \texttt{site.yml}
+        \newline
+   		\includegraphics[scale=.35]{assets/deploy_ci.png}
     \end{frame}
 
 	% Planning

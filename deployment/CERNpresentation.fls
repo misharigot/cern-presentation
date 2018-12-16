@@ -294,6 +294,12 @@ INPUT ./assets/deploy_webserver.png
 INPUT assets/deploy_databaseserver.png
 INPUT ./assets/deploy_databaseserver.png
 INPUT ./assets/deploy_databaseserver.png
+INPUT assets/deploy_dirstruct_ci.png
+INPUT ./assets/deploy_dirstruct_ci.png
+INPUT ./assets/deploy_dirstruct_ci.png
+INPUT assets/deploy_ci.png
+INPUT ./assets/deploy_ci.png
+INPUT ./assets/deploy_ci.png
 OUTPUT CERNpresentation.nav
 OUTPUT CERNpresentation.toc
 OUTPUT CERNpresentation.snm
