@@ -1,0 +1,132 @@
+\documentclass[12pt]{beamer}
+\usetheme{Berkeley}
+\usepackage{graphicx}
+\usepackage{booktabs}
+
+\title{Jiskefet - UI}
+
+\author{Bastiaan Reinalda and Ramon Gill}
+
+\date{\today}
+
+\begin{document}
+	\begin{frame}
+	\titlepage
+	\end{frame}
+
+	\begin{frame}{Overview}
+		\tableofcontents
+	\end{frame}
+
+	% UI
+	\section{Dependencies}
+	\begin{frame}
+		\frametitle{Dependencies}
+		\begin{itemize}
+			\item Mithril
+			\item Typescript (TSX)
+			\item Marked
+			\item Bootstrap
+		\end{itemize}
+	\end{frame}
+
+	\section{Views}
+	\begin{frame}
+		\frametitle{Views}
+		path: \texttt{src/app/views/Logs.tsx}
+		\includegraphics[scale=.3]{../assets/logs-components.png}
+	\end{frame}
+
+	\begin{frame}
+		\frametitle{Views}
+		path: \texttt{src/app/views/CreateLog.tsx}
+		\includegraphics[scale=.3]{../assets/createlog-view.png}
+	\end{frame}
+
+	\begin{frame}
+		\frametitle{Views}
+		path: \texttt{src/app/views/Log.tsx}
+		\includegraphics[scale=.3]{../assets/logdetails-view.png}
+	\end{frame}
+	
+	\section{Components}
+	\begin{frame}
+		\frametitle{Components - Attributes}
+		path: \texttt{src/app/components/Filter.tsx}
+		\includegraphics[scale=.4]{../assets/vnode-attrs.png}
+	\end{frame}
+
+	\begin{frame}
+		\frametitle{Components - Filters}
+		\begin{itemize}
+			\item Filter names and labels
+			\item Collapseble
+		\end{itemize}
+		\includegraphics[scale=.5]{../assets/filter-element.png}
+	\end{frame}
+
+	\begin{frame}
+		\frametitle{Components - Filters}
+		path: \texttt{src/app/components/Filter.tsx}
+		\includegraphics[scale=.3]{../assets/filter-component.png}
+	\end{frame}
+
+	\begin{frame}
+		\frametitle{Components - Layout}
+		\begin{itemize}
+			\item Wrapper component
+		\end{itemize}
+		\includegraphics[scale=.25]{../assets/layout-element.png}
+	\end{frame}
+
+	\begin{frame}
+		\frametitle{Components - Layout}
+		path: \texttt{src/app/components/Layout.tsx}
+		\includegraphics[scale=.5]{../assets/layout-component.png}
+	\end{frame}
+
+	\begin{frame}
+		\frametitle{Components - Pagination}
+		\begin{itemize}
+			\item Page size
+			\item Page number
+			\item Amount of pages
+		\end{itemize}
+		\includegraphics[scale=.4]{../assets/pagination-element.png}
+	\end{frame}
+
+	\begin{frame}
+		\frametitle{Components - Pagination}
+		path: \texttt{src/app/components/Pagination.tsx}
+		\includegraphics[scale=.3]{../assets/pagination-component.png}
+	\end{frame}
+
+	\section{State Management}
+	\begin{frame}
+		\frametitle{State management}
+		path: \texttt{src/app/models/State.ts}
+		\includegraphics[scale=.5]{../assets/ui-state.png}
+	\end{frame}
+
+	\begin{frame}
+		\frametitle{State management}
+		path: \texttt{src/app/models/Log.ts}
+		\includegraphics[scale=.4]{../assets/log-model.png}
+	\end{frame}
+
+	\begin{frame}
+		\frametitle{State models}
+		path: \texttt{src/app/models/Filter.ts}
+		\includegraphics[scale=.3]{../assets/filter-model.png}
+	\end{frame}
+
+	\section{Planning}
+	\begin{frame}
+		\frametitle{Planning}
+		\begin{itemize}
+			\item Atomic design
+			\item Redux
+			\item Testing
+		\end{itemize}
+	\end{frame}
+\end{document}

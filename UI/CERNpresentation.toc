@@ -1,0 +1,5 @@
+\beamer@sectionintoc {1}{Dependencies}{3}{0}{1}
+\beamer@sectionintoc {2}{Views}{4}{0}{2}
+\beamer@sectionintoc {3}{Components}{7}{0}{3}
+\beamer@sectionintoc {4}{State Management}{14}{0}{4}
+\beamer@sectionintoc {5}{Planning}{17}{0}{5}
