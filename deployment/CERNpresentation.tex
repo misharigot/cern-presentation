@@ -11,23 +11,21 @@
 
 \begin{document}
 	\begin{frame}
-	\titlepage
+	    \titlepage
 	\end{frame}
 
-	\begin{frame}{Overview}
+	\begin{frame}{Table of Contents}
 		\tableofcontents
 	\end{frame}
 
-    % Deployment
-	\section{Deployment}
+	\section{Overview}
 	\begin{frame}
-        \frametitle{Deployment}
+        \frametitle{Overview}
 		\begin{itemize}
-			\item Ansible
+			\item Deployment with Ansible
 			\begin{itemize}
-                \item API
-                \item UI
-                \item Database
+                \item Web server (Back end API \& Front end UI)
+                \item Database server
                 \item Jenkins CI
             \end{itemize} 
 			\item Jenkins CI
@@ -39,6 +37,8 @@
 		\end{itemize}
     \end{frame}
 
+    % Deployment
+    \section{Deployment}
     \begin{frame}
         \frametitle{Deployment}
         Directory Structure Overview
@@ -103,6 +103,11 @@
         path: \texttt{site.yml}
         \newline
    		\includegraphics[scale=.35]{assets/deploy_ci.png}
+    \end{frame}
+
+    \begin{frame}
+        \frametitle{Jenkins CI}
+        \href{http://ci-jiskefet.westeurope.cloudapp.azure.com/}{http://ci-jiskefet.westeurope.cloudapp.azure.com/}
     \end{frame}
 
 	% Planning
