@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.6.4)  20 DEC 2018 23:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.9.6)  20 DEC 2018 23:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/Misha/Projects/software-for-science/jiskefet-presentations/20-dec/CERNpresentation.tex
-(/Users/Misha/Projects/software-for-science/jiskefet-presentations/20-dec/CERNpresentation.tex
+**/Users/bastiaanreinalda/projects/cern-presentation/20-dec/CERNpresentation.tex
+(/Users/bastiaanreinalda/projects/cern-presentation/20-dec/CERNpresentation.tex
 LaTeX2e <2018-04-01> patch level 2
 Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
 (/usr/local/texlive/2018/texmf-dist/tex/latex/beamer/beamer.cls
@@ -708,6 +708,8 @@ Package pdftex.def Info: assets/cern-group.png  used on input line 24.
 
 ] [10
 
+] [11
+
 ]
 \tf@nav=\write6
 \openout6 = `CERNpresentation.nav'.
@@ -718,27 +720,27 @@ Package pdftex.def Info: assets/cern-group.png  used on input line 24.
 \tf@snm=\write8
 \openout8 = `CERNpresentation.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 85.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 85.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 94.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 94.
  (./CERNpresentation.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 85.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 85.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 94.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 94.
 Package rerunfilecheck Info: File `CERNpresentation.out' has not changed.
 (rerunfilecheck)             Checksum: 3F301EBC38E941A4EE569F6E50822227;110.
  ) 
 Here is how much of TeX's memory you used:
- 17027 strings out of 492649
- 327043 string characters out of 6129623
+ 17031 strings out of 492649
+ 327033 string characters out of 6129623
  403403 words of memory out of 5000000
- 20513 multiletter control sequences out of 15000+600000
+ 20515 multiletter control sequences out of 15000+600000
  6061 words of font info for 22 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 56i,16n,55p,875b,557s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 56i,16n,55p,860b,557s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb>
-Output written on CERNpresentation.pdf (10 pages, 7188880 bytes).
+Output written on CERNpresentation.pdf (11 pages, 7191517 bytes).
 PDF statistics:
- 338 PDF objects out of 1000 (max. 8388607)
- 310 compressed objects within 4 object streams
- 23 named destinations out of 1000 (max. 500000)
+ 367 PDF objects out of 1000 (max. 8388607)
+ 338 compressed objects within 4 object streams
+ 25 named destinations out of 1000 (max. 500000)
  64 words of extra memory for PDF output out of 10000 (max. 10000000)
 

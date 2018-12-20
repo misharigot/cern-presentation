@@ -1,8 +1,8 @@
-PWD /Users/Misha/Projects/software-for-science/jiskefet-presentations/20-dec
+PWD /Users/bastiaanreinalda/projects/cern-presentation/20-dec
 INPUT /usr/local/texlive/2018/texmf.cnf
 INPUT /usr/local/texlive/2018/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2018/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/Misha/Projects/software-for-science/jiskefet-presentations/20-dec/CERNpresentation.tex
+INPUT /Users/bastiaanreinalda/projects/cern-presentation/20-dec/CERNpresentation.tex
 OUTPUT CERNpresentation.log
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/beamer/beamer.cls
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/beamer/beamer.cls
