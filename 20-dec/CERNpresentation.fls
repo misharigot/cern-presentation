@@ -1,8 +1,8 @@
-PWD /Users/Misha/Projects/software-for-science/jiskefet-presentations/20-dec
+PWD /Users/bastiaanreinalda/projects/cern-presentation/20-dec
 INPUT /usr/local/texlive/2018/texmf.cnf
 INPUT /usr/local/texlive/2018/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2018/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/Misha/Projects/software-for-science/jiskefet-presentations/20-dec/CERNpresentation.tex
+INPUT /Users/bastiaanreinalda/projects/cern-presentation/20-dec/CERNpresentation.tex
 OUTPUT CERNpresentation.log
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/beamer/beamer.cls
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/beamer/beamer.cls
@@ -284,6 +284,7 @@ INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmss10.tfm
 INPUT assets/cern-group.png
 INPUT ./assets/cern-group.png
 INPUT ./assets/cern-group.png
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmssbx10.tfm
 OUTPUT CERNpresentation.nav
 OUTPUT CERNpresentation.toc
 OUTPUT CERNpresentation.snm
@@ -294,3 +295,4 @@ INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.p
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb
