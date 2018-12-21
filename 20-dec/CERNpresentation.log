@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.6.4)  21 DEC 2018 02:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.6.4)  21 DEC 2018 10:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -737,13 +737,13 @@ Package rerunfilecheck Info: File `CERNpresentation.out' has not changed.
 Here is how much of TeX's memory you used:
  17111 strings out of 492649
  329045 string characters out of 6129623
- 405408 words of memory out of 5000000
+ 405409 words of memory out of 5000000
  20582 multiletter control sequences out of 15000+600000
  6355 words of font info for 23 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,16n,66p,875b,589s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb>
-Output written on CERNpresentation.pdf (14 pages, 7215744 bytes).
+Output written on CERNpresentation.pdf (14 pages, 7215727 bytes).
 PDF statistics:
  576 PDF objects out of 1000 (max. 8388607)
  541 compressed objects within 6 object streams

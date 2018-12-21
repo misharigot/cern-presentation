@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1545355546 "/Users/Misha/Projects/software-for-science/jiskefet-presentations/20-dec/CERNpresentation.tex" "CERNpresentation.pdf" "CERNpresentation" 1545355548
-  "/Users/Misha/Projects/software-for-science/jiskefet-presentations/20-dec/CERNpresentation.tex" 1545355546 3768 8da44e320ee99b8b7facde91355d9f4e ""
+["pdflatex"] 1545383072 "/Users/Misha/Projects/software-for-science/jiskefet-presentations/20-dec/CERNpresentation.tex" "CERNpresentation.pdf" "CERNpresentation" 1545383073
+  "/Users/Misha/Projects/software-for-science/jiskefet-presentations/20-dec/CERNpresentation.tex" 1545383071 3754 798b807fe0f5645b208b0b032123325f ""
   "/usr/local/texlive/2018/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1480098701 1288 655e228510b4c2a1abe905c368440826 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmss10.tfm" 1480098701 1316 b636689f1933f24d1294acdf6041daaa ""
@@ -160,17 +160,17 @@
   "/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1523934492 2717033 f61a5287d9c22a39a74f1979fe3f905c ""
   "/usr/local/texlive/2018/texmf-var/web2c/pdftex/pdflatex.fmt" 1528112917 4220279 406a09b321623013c25c0c977f1785c6 ""
   "/usr/local/texlive/2018/texmf.cnf" 1523934483 577 0b39adfd7c93507ff20c9c14c2f1a33f ""
-  "CERNpresentation.aux" 1545355548 4434 17b3dc6a553660325a659fa3db12e9eb ""
-  "CERNpresentation.nav" 1545355548 2362 b5878ffb50d4288c7ba4ba1089b34582 ""
-  "CERNpresentation.out" 1545355548 498 4e2ea23cae2d1500aaad507a5fb9a293 ""
-  "CERNpresentation.tex" 1545355546 3768 8da44e320ee99b8b7facde91355d9f4e ""
-  "CERNpresentation.toc" 1545355548 456 7ea7f3abbb3615243200ce340ede66d9 ""
+  "CERNpresentation.aux" 1545383073 4434 17b3dc6a553660325a659fa3db12e9eb ""
+  "CERNpresentation.nav" 1545383073 2362 b5878ffb50d4288c7ba4ba1089b34582 ""
+  "CERNpresentation.out" 1545383073 498 4e2ea23cae2d1500aaad507a5fb9a293 ""
+  "CERNpresentation.tex" 1545383071 3754 798b807fe0f5645b208b0b032123325f ""
+  "CERNpresentation.toc" 1545383073 456 7ea7f3abbb3615243200ce340ede66d9 ""
   "assets/cern-group.png" 1545342513 5496642 65c6ecb78552b255ec0fe98d02f57e85 ""
   (generated)
-  "CERNpresentation.toc"
+  "CERNpresentation.out"
   "CERNpresentation.log"
   "CERNpresentation.snm"
   "CERNpresentation.pdf"
   "CERNpresentation.aux"
-  "CERNpresentation.out"
+  "CERNpresentation.toc"
   "CERNpresentation.nav"
