@@ -1,0 +1,6 @@
+\beamer@sectionintoc {1}{Sprint recap}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{General}{3}{0}{1}
+\beamer@subsectionintoc {1}{2}{Front end}{4}{0}{1}
+\beamer@subsectionintoc {1}{3}{Back end}{5}{0}{1}
+\beamer@subsectionintoc {1}{4}{Deployment}{6}{0}{1}
+\beamer@sectionintoc {2}{Demo}{7}{0}{2}
